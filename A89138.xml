@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cure of ruptures in mans bodie, by physical, and chirurgical meanes, and medicines. Whereby any person under forty yeers of age, that is diseased in the bodie, with any kind of rupture or burstness whatsoever, may (by Gods assistance, be perfectly, and unfailingly cured. And to whose persons who are above fortie, of declining age, having passed their naturall vigour, maturitie and full strength, present helpe, and desired ease, assuredly procured, for the whole terme of their remaining life, even to their dying day, by the carefull use of some prescribed meanes, and medicines. / By Levvis Millvvater, dwelling in Peterburgh, at the Minster Gate.</title>
+            <author>Millwater, Lewis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89138</idno>
+            <idno type="STC">Wing M2074</idno>
+            <idno type="STC">Thomason E625_9</idno>
+            <idno type="STC">ESTC R206468</idno>
+            <idno type="EEBO-CITATION">99865625</idno>
+            <idno type="PROQUEST">99865625</idno>
+            <idno type="VID">165814</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165814)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E625[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cure of ruptures in mans bodie, by physical, and chirurgical meanes, and medicines. Whereby any person under forty yeers of age, that is diseased in the bodie, with any kind of rupture or burstness whatsoever, may (by Gods assistance, be perfectly, and unfailingly cured. And to whose persons who are above fortie, of declining age, having passed their naturall vigour, maturitie and full strength, present helpe, and desired ease, assuredly procured, for the whole terme of their remaining life, even to their dying day, by the carefull use of some prescribed meanes, and medicines. / By Levvis Millvvater, dwelling in Peterburgh, at the Minster Gate.</title>
+                  <author>Millwater, Lewis.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 28 1650", the 51 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Hernia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165814:1" rendition="simple:additions"/>
+            <p>THE CURE OF RUPTURES In Mans BODIE, By Phyſical, and Chirurgical Meanes, and Medicines.</p>
+            <p>Whereby any perſon under <hi>forty</hi> yeers of age, that is diſeaſed in the Bodie, with any kind of <hi>Rupture</hi> or <hi>Burſtneſs</hi> whatſoever, may (by Gods aſſiſtance, be perfectly, and unfailingly <hi>Cured.</hi>
+            </p>
+            <p>And to thoſe Perſons who are <hi>above</hi> fortie, of declining age, having paſſed their naturall vigour, ma<g ref="char:EOLhyphen"/>turitie and full ſtrength, preſent <hi>helpe,</hi> and deſired <hi>eaſe,</hi> aſſuredly <hi>procured,</hi> for the whole terme of their remaining life, even to their dying day, by the carefull uſe of ſome preſcribed Meanes, and Medicines.</p>
+            <p>By LEVVIS MILLVVATER, dwelling in <hi>Peter<g ref="char:EOLhyphen"/>burgh,</hi> at the Minſter Gate. <hi>VIDE &amp; FIDE, Try and Truſt.</hi>
+            </p>
+            <q>
+               <bibl>MATTH. 9.8.</bibl>
+               <p>When the multitude ſaw it, they marvailed, and glorified <hi>God,</hi> which had given ſuch power unto <hi>Men.</hi>
+               </p>
+            </q>
+            <p>
+               <add>feb: 28 1650</add> 
+               <hi>LONDON,</hi> Printed in the Yeer, 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="medical_text">
+            <pb facs="tcp:165814:2"/>
+            <pb facs="tcp:165814:2"/>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hou canſt not be ignorant, under this Noon-tide of the Goſpel, that all diſeaſes, aches and pains, that befall <hi>man</hi> in this life, are the proper Effects, and Fruits of <hi>mans</hi> own <hi>ſin,</hi> we may thanke our ſelves for any evils that befall us. Our <hi>breach</hi> of obedi<g ref="char:EOLhyphen"/>ence due from <hi>us</hi> to God, is the cauſe of all <hi>breaches</hi> made by God upon <hi>us,</hi> in our bodies or eſtates. <hi>He hath broken me with breach upon breach,</hi> ſaith Patient <hi>Job, Job</hi> 16.14. Sin brings ſuf<g ref="char:EOLhyphen"/>ferings and ſorrows upon us, <hi>Why then doth living man com<g ref="char:EOLhyphen"/>plain?</hi> Lam. 3.39. <hi>Thy breach is great like the Sea, who can heal thee?</hi> Lam. 2.13. Whereupon <hi>David</hi> prayes to God to <hi>heal the breaches,</hi> Pſal. 60.2. He alone is the <hi>repairer of our brea<g ref="char:EOLhyphen"/>ches.</hi>
+            </p>
+            <p>Yet there be ſundry ſecond cauſes of theſe <hi>Ruptures</hi> or <hi>brea<g ref="char:EOLhyphen"/>ches</hi> in mans bodie, and divers things occaſioning them. They befall ſome in their very cradles, and infancie, ſometimes by their fierce crying and frowardneſs: Sometimes again they happen to ſome, through careleſneſſe in their dreſſing, ſwadling, and at<g ref="char:EOLhyphen"/>tendance. Sometimes they come through ſome extream cold and coughing. In ſome that are bigger and elder, they are oc<g ref="char:EOLhyphen"/>caſioned by vehement agitation or ſtirring of the body in ſome violent motion of Riding, running, leaping, ringing, lifting ſome great weight, or by ſome ſtroke or blow on the belly, or ſome<g ref="char:EOLhyphen"/>times by loud ſhouting with the voyce, ſtraining the body, and many ſuch like, whereby the inward rim of the belly, wherein the bowels lye wrapt up and encloſed, being diſtended, rent or broken, the bowels fall down at ſuch a breach, ſwell, and cauſe grievous pains, ſwellings, inflammations <hi>of,</hi> and torments <hi>in,</hi> thoſe tender parts within, as Phyſitians more largely and learned<g ref="char:EOLhyphen"/>ly tell us.</p>
+            <p>My way of Cure is gentle, and eaſe-full, not cauſing the leaſt pain or grief to to the body, or the affected part: 'Tis ſuch as the tendereſt child may endure without whinching, and therefore ap<g ref="char:EOLhyphen"/>plyable
+<pb n="4" facs="tcp:165814:3"/>unto, and eaſie to be uſed on any other of riper yeers, and more diſcretion.</p>
+            <p>I launce not, cut not, pierce not the fleſh or skin with any in<g ref="char:EOLhyphen"/>ſtrument, as Chirurgions often doe, for the ſtone in the Bladder, and ſew the wound up again, and yet we know ſome that for hope of future health and recovery, endure all theſe torments (though the remedie oftentimes prove worſe then the diſeaſe) even willingly and patiently, and pay dearly for it too, in great ſums of monie. Whereas I put my Patients to no pain at all, but procure and bring them preſent eaſe, certain remedie, and relief, unfailing cure, through the help and bleſſing of my Lord God, who is the chief cloſer up of <hi>breaches</hi> for his people, and heals the ſtroke of their wound, whoſe helping and healing hand I have hitherto alwayes found graciouſly working with mee, and by me, to whom therefore be th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Glory.</p>
+            <p>I arrogate not to my ſelf any Apoſtolicall or miraculous way of healing, or giving ſoundneſs of body to the diſeaſed: I doe the cure by Chirurgicall and Phyſicall meanes, Medicines and Directions to be prepared, uſed and applyed by <hi>mine</hi> own <hi>hand,</hi> as I ſee need and find cauſe.</p>
+            <p>If thy ſelf or any of thy friends, ſon or daughter, ſtand in need of my skil, pains, or help, thou mayeſt find me, or hear of me at my Houſe in <hi>Peterburgh,</hi> at the entring into the Minſter-yard. I am often ſent for abroad, ſometimes unto places an hundred miles from my own dwelling. Thou mayeſt every week, ſend from <hi>London</hi> to <hi>Peterburgh</hi> by the <hi>Lincoln</hi> Carriers, who paſſe and repaſſe through our Citie, not far from my very door. And if it ſo fall out that I ſhould not then be at home, and therefore can<g ref="char:EOLhyphen"/>not come to thee at the inſtant of thy ſending, yet I will not fail to repair unto thee, and wait upon thee, at my firſt leaſure and opportunity, if it bee not too troubleſome or painfull for thy ſelf, or thine, to come home to mee.</p>
+            <p>I boaſt not of what (God hath wrought and done by mee already, though many would not have beleeved what they them<g ref="char:EOLhyphen"/>ſelves upon trial have found true, I tell thee not crackingly of any great undertakings, I hang out no falſe Titles, nor mountebank Ta<g ref="char:EOLhyphen"/>bles of lying wonders, or imaginary cures. Many, where I have bin imploied, can and wil bear me witneſſe of my real performances, towards them and theirs. And doe often with thankfull hearts
+<pb n="5" facs="tcp:165814:3"/>bleſſe God for me; and are ſtill glad upon any occaſion to ſee mee, and acknowledge Gods goodneſſe towards them, for pro<g ref="char:EOLhyphen"/>ſpering my pains in their deſired recoverie, they bid me kind<g ref="char:EOLhyphen"/>ly welcome, give me (during the time I can ſtay) courteous en<g ref="char:EOLhyphen"/>tertainment. So that as <hi>Job</hi> 29.11. <hi>When the ear heard of me, then it bleſſed me, and when the eie ſaw me, it gave witneſs to mee.</hi>
+            </p>
+            <p>My bodily preſence or perſon promiſeth not much, nor did it in S. <hi>Paul,</hi> 2 <hi>Cor.</hi> 10.10. no, nor yet in the Sacred Perſon of the Lord Jeſus Chriſt himſelf, who went up and down healing every diſeaſe and ſickneſſe among the people. For <hi>Iſai.</hi> 52.14. <hi>His viſage was marred more then any mans,</hi> there was no form or comlineſs to move men to deſire even <hi>Him.</hi>
+            </p>
+            <p>I rufle not in ſilk or ſattin, I flaunt not in Scarlet, or gorge<g ref="char:EOLhyphen"/>ous Apparel. I tell thee therefore before hand, ere thou ſee me, what a one thou ſhalt find me, leſt when thou ſeeſt me, thou through pre-conceipt and miſ-priſion be diſappointed, and fall ſhort of thy expectation: as <hi>Naaman,</hi> 2 <hi>Kin.</hi> 5.11. <hi>Was wroth and went away, and ſaid, Behold, I thought he will ſurely come out to me, and ſtand, and call on the Name of the Lord his God, and ſtrike his hand over the place, and recover the Leper.</hi>
+            </p>
+            <p>To undeceive thee therefore, know that <hi>I am</hi> as <hi>Jacob,</hi> a <hi>plain man, Gen</hi> 25.27. and thou ſhalt find honeſt and plain dealing at my hands.</p>
+            <p>I am verily perſwaded, that there be a great many in this Nation, grievouſly troubled with this kind of infirmity of <hi>Rup<g ref="char:EOLhyphen"/>tures,</hi> and ſlipping down of their bowels, into the lower parts of their body, who for lack of timely help, do languiſh, droop, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar away, and their <hi>breach</hi> becommeth daily bigger and big<g ref="char:EOLhyphen"/>ger, for when the <hi>Caul</hi> or <hi>Filme</hi> that ſhould lap in the bowels, and bear them up from ſinking and ſetling downward, is rent and broken, how can the veſſels within but ever and anon ſlide down, and be with much pain, and difficultie lifted, or kept up?</p>
+            <p>Many ſuch I fear there be, who through too much modeſty and ſhame hide their weakneſs, or if ſome near friend know it, do yet utte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly deſpair of cure or mends in this world, and ſo lead miſerable and uncomfortable lives.</p>
+            <p>For upon any more then ordinarie motion and agitation of
+<pb n="6" facs="tcp:165814:4"/>their body, yea upon every ſmall diſtemper through cold or wind the parts above, fall down into the breach, fret and ſwell, and make the body very ſore and fall of cruell torment, yea it makes them ſtomack ſick and to vomit, and they are ſo diſ-abled here<g ref="char:EOLhyphen"/>by, that they grow liſtleſſe, unweldie, cannot, or care not to walk abroad, leaſt it ſhould fall down and put them to pain, much leſſe can they, or dare they, work at any bodily labour, ride a journey, or exerciſe themſelves, though it be even with moderate, and more gentle movings, and ſtirrings of the body.</p>
+            <p>Now by Gods bleſſing, I can and ſhall ſo help them, that even thoſe whoſe infirmities and grievances in any kind of theſe <hi>Rup<g ref="char:EOLhyphen"/>tures</hi> (whether <hi>Wind-rupture, Gut-rupture,</hi> or <hi>Fleſh rupture</hi>) be the greateſt, painfulleſt, and moſt tormenting, ſhall in very ſhort time be able to walke, ride, work, bear burdens, and cheer<g ref="char:EOLhyphen"/>fully go about any ſtirring imployment, And whereas <hi>ſome</hi> that undertake to help perſons diſeaſed in this kind, doe it by pain<g ref="char:EOLhyphen"/>full cures, and are a long while in doing it, and many times en<g ref="char:EOLhyphen"/>joyn their Patients to lie continually in bed for thirty or fortie dayes together, and apply Sear clothes, Plaiſters, <hi>&amp;c.</hi> My way is more eaſie, more ſpeedie, and ſafe, and ſooner then thou thy ſelf haply couldſt expect or deſire.</p>
+            <p>Good things the more common, the better; Wells, the more drawn the ſweeter water; my candle ſhineth no worſe becauſe another is lighted by it, it now growes towards evening with me, I am ſixty yeers old and upwards, and therefore deſire before my Sun-ſet, and it be paſt working-time, to doe all the good I can, that my Candle may blaze a little in the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cket before it go out, and be no more ſeen. Some of my good friends have ſeri<g ref="char:EOLhyphen"/>ouſly intreated me to make my skill more common, not to bury my talent which God hath given me for the good of others, and indeed I ſometimes check my ſelf, as thoſe hunger-ſtarved men, 2 <hi>Kin.</hi> 7.8. and thinke, <hi>I do not well</hi> to conceal my experienced skill, but ſhould <hi>draw out</hi> my ſelfe (who indeed am now alrea<g ref="char:EOLhyphen"/>dy on the <hi>tilt</hi>) that the <hi>beſt</hi> wine may be at <hi>laſt,</hi> for publike be<g ref="char:EOLhyphen"/>nefit in releiving the needfull, not reſerving it (as <hi>Miſers</hi> doe) for any private ends or gain to my ſelf.</p>
+            <p>Wherefore I have thus at laſt, thought good and reſolved to publiſh in <hi>Print,</hi> for the behoof of my Countrie, and to make known this particular diſeaſe of <hi>Ruptures,</hi> what I dare under<g ref="char:EOLhyphen"/>take
+<pb n="7" facs="tcp:165814:4"/>and profeſſe to doe, or to profeſſe rather what God hath done, and I hope will yet doe, by me.</p>
+            <p>I doe verily thinke that ſome vain-glorious and vapouring <hi>Mountebank,</hi> ſome ſelf-ſeeking greedie <hi>Emperick</hi> would have raked together a great eſtate, gotten great ſummes of money, by leſſe skill, leſſe profitable, uſefull and eaſefull cures then I (by Gods bleſſing) have done and can doe.</p>
+            <p>For my part (though I be a man of mean eſtate and condition, yet) <hi>I ſeek no great things to my ſelf</hi> (not <hi>Balaams</hi> wages, <hi>Num.</hi> 24.13.) I deſire onely a competent <hi>viaticum</hi> to maintain my ſelf and family, in a comfortable ſufficiencie, and <hi>to eat the labour of my hands,</hi> as <hi>Solomon</hi> concerning the vertuous woman, bids, <hi>Give her of the fruit of her hands, and let her own works praiſe her in the gate,</hi> Prov. 31.31.</p>
+            <p>I have heard how that <hi>ſome</hi> learned and carefull <hi>Lawyers</hi> have had lands, and great Annuities given them during their life, in re<g ref="char:EOLhyphen"/>ward of their proſperous and ſucceſſefull pains, in carrying ſome one cauſe, in ſome one great ſuit of Law.</p>
+            <p>And yet health is more worth then wealth, <hi>Skin for skin, yea all that a man hath will he give for his life,</hi> Job 2.4. what would not ſome diſeaſed rich man give to be made ſound and whole, or find eaſe and remedie againſt ſome lingring ſickneſs or tormenting pain, which makes his life ſad and uncomfortable?</p>
+            <q>
+               <l>Health is a jewell, which when men doe buy</l>
+               <l>Phyſitians value it accordingly.</l>
+            </q>
+            <p>The Woman in the Goſpel, that had the iſſue of blood twelve yeers, ſpent her whole eſtate upon Phyſitians (ſo fain would ſhee have had health) againſt that languiſhing infirmity, and yet ſhee was ſo far from being bettered, or getting remedie, that ſhe be<g ref="char:EOLhyphen"/>came rather worſe, till ſhe happily touched the great Phyſitian of ſoul and body, and then was made preſently and perfectly whole, <hi>Mar.</hi> 5.26.</p>
+            <p>I boaſt not of things beyond my line, I onely tell thee what God hath done by me, I aſcribe nothing to my ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf, mine own worth, or works, but (with that Divine Poet, <hi>Du Bartas Quadr.</hi> of <hi>Pibrach, Stanz.</hi> 5.)</p>
+            <q>
+               <l>
+                  <hi>Say,</hi> not my hand <hi>theſe Cures</hi> to paſſe hath brought</l>
+               <l>Or <hi>theſe,</hi> my vertue hath atteined to:</l>
+               <l>I rather ſay, <hi>Theſe God by me hath wrought,</hi>
+               </l>
+               <l>
+                  <hi>God</hi>'s Author of the little good I doe.</l>
+            </q>
+            <p>
+               <pb n="8" facs="tcp:165814:5"/>
+               <hi>Not unto</hi> us, <hi>O Lord, not unto</hi> us, <hi>but unto</hi> thy Name <hi>be the praiſe,</hi> who doſt mightily manifeſt and magnifie thy wiſedome, power, and goodneſs, by imploying, and bleſſing the poor la<g ref="char:EOLhyphen"/>bours, parts and ſervices of thy meaneſt and moſt contemptible ſervants and inſtruments for the good of others. <hi>To whom</hi> there<g ref="char:EOLhyphen"/>fore be all the glory. <hi>In whom</hi> I ſhall ever be,</p>
+            <closer>
+               <dateline>From my Houſe in <hi>Peterburgh,</hi> at the Minſter Gate, <date>Janu<g ref="char:EOLhyphen"/>ary 8. 1651.</date>
+               </dateline>
+               <signed>Thy Friend and Servant to uſe, Lewis Millwater.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript,</head>
+            <p>LEſt haply <hi>(Reader)</hi> thou ſhouldſt thinke ſome things here writ<g ref="char:EOLhyphen"/>ten, to be arrogantly and boaſtingly expreſſed, by way of applauſe, by the Actor, or Author of theſe cures; We think it not amiſſe to let thee know, that this was not indeed <hi>his</hi> very Antograph, or <hi>act,</hi> thus to write, or publiſh this Paper; but that is was <hi>penned</hi> by ſome friends of his, who have had comfortable experience of <hi>his</hi> dexteritie and ſucceſſe in the ſame, who being much taken and affected with his skill, and honeſtie herein, have thought fit to publiſh to others, what themſelves have found true in their own knowledge and experience; and what good thou al<g ref="char:EOLhyphen"/>ſo or thine, may get by this notice, if need bee.</p>
+            <p>This then, thus publiſhed is not <hi>a Preface</hi> to any larger Tract; wherein <hi>his</hi> Medicines and meanes of cure ſhould be exactly de<g ref="char:EOLhyphen"/>ſcribed; for we muſt tell thee, <hi>that cannot be,</hi> they are <hi>practi<g ref="char:EOLhyphen"/>call,</hi> not <hi>notionall,</hi> and muſt be done by <hi>his</hi> own hand, which when thou ſeeſt, thou mayeſt, and wilt beleeve; He then will leave with thee and thine, his experimented skill and directions, which thou mayeſt propagate and communicate to others. <hi>This</hi> is now publiſhed as an <hi>Index,</hi> aſſuring thee of the realitie of thoſe Cures, which can be no otherwiſe or better taught, than by practiſe, or ſeeing done.</p>
+            <closer>
+               <salute>Vale &amp; Utere.</salute>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
